@@ -64,3 +64,6 @@ This API uses JWT-based authentication. To authenticate a request, include a JSO
   2. Start the server by running the following command:
            
            `npm run start` or `npm start`
+ # Database
+  I used Mysql databse and mysql library to connect the databse 
+  use the  `db.js ` file in the server folder to create the databse query 
